@@ -1,0 +1,20 @@
+.shippingForm-container{
+    margin: auto;
+    
+}
+.shipping-form{
+    margin: 30px 150px;
+    background-color: seashell;
+}
+.shipping-form input{
+    display: block;
+    width: 300px;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.error{
+    color: red;
+}

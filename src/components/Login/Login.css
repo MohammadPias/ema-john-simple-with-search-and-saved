@@ -1,0 +1,26 @@
+.login-container{
+    margin-top: 150px;
+}
+.login-form{
+    width: 25%;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid rgb(203, 230, 253);
+}
+.login-form input{
+    width: 100%;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+.google-signin{
+    background-color: burlywood;
+    width: 75%;
+    margin: auto;
+    border: 1px solid rgb(212, 137, 39);
+    border-radius: 3px;
+    margin-top: 5px;
+    padding: 5px;
+
+}
